@@ -9,7 +9,7 @@ It can be used via a graphical user interface (GUI) or from the command line.
 
 **In short, this code can:**
 
-* Act like an automatic downloader robot from shared links.
+* Act like an automatic downloader robot from shared links. Which is great other than you manually download each files or waiting google drive to zip all the files and split them into parts then have the chance for the downloaded part to be failed/corrupt.
 * Keep all the folders and files organized on your computer exactly as they were in the shared Drive.
 * Use a special "program account" to download things, which is great for automated tasks or when you're not personally logged in all the time.
 
