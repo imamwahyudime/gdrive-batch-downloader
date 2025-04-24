@@ -1,15 +1,11 @@
 # Google Drive Batch Downloader
 
-Downloads files and folders from a Google Drive shared link.
-
-## Description:
-
-This script downloads all files and subfolders from a Google Drive shared folder to your local computer.  It supports both service account authentication (recommended for automation) and interactive user authentication.  
+This script downloads all files and subfolders from a Google Drive shared link to your local computer.  It supports both service account authentication (recommended for automation) and interactive user authentication.  
 It can be used via a graphical user interface (GUI) or from the command line.
 
 **In short, this code can:**
 
-* Act like an automatic downloader robot from shared links. Which is great other than you manually download each files or waiting google drive to zip all the files and split them into parts then have the chance for the downloaded part to be failed/corrupt.
+* Act like an automatic downloader robot from shared links. Which is great, The current method of manually downloading each files or waiting for Google Drive to zip and split them into parts presents challenges. Downloaded zip parts can failed when downloading or become corrupted, leading to incomplete file folders. This code here offers a better approach, simplifying the process and minimizing potential downloads issues.
 * Keep all the folders and files organized on your computer exactly as they were in the shared Drive.
 * Use a special "program account" to download things, which is great for automated tasks or when you're not personally logged in all the time.
 
