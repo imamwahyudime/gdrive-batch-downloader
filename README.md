@@ -7,6 +7,12 @@ Downloads files and folders from a Google Drive shared link.
 This script downloads all files and subfolders from a Google Drive shared folder to your local computer.  It supports both service account authentication (recommended for automation) and interactive user authentication.  
 It can be used via a graphical user interface (GUI) or from the command line.
 
+**In short, this code can:**
+
+* Act like an automatic downloader robot from shared links.
+* Keep all the folders and files organized on your computer exactly as they were in the shared Drive.
+* Use a special "program account" to download things, which is great for automated tasks or when you're not personally logged in all the time.
+
 ## Features:
 
 * **Downloads from shared links:** Downloads all files and folders from a Google Drive shared folder.
