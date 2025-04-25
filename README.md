@@ -3,6 +3,9 @@
 This script downloads all files and subfolders from a Google Drive shared link to your local computer.  It supports both service account authentication (recommended for automation) and interactive user authentication.  
 It can be used via a graphical user interface (GUI) or from the command line.
 
+[![Release Date](https://img.shields.io/badge/Release-April%2024,%202025-brightgreen.svg)](https://github.com/imamwahyudime/brainbox-webapp/releases/tag/v0.8)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 **In short, this code can:**
 
 * Act like an automatic downloader robot from shared links. Which is great, The current method of manually downloading each files or waiting for Google Drive to zip and split them into parts presents challenges. Downloaded zip parts can failed when downloading or become corrupted, leading to incomplete file folders. This code here offers a better approach, simplifying the process and minimizing potential downloads issues.
